@@ -10,12 +10,12 @@ const Header = () => {
       <div className={styles.container}>
         <Link to="/" className={styles.logoContainer}>
           <Logo className={styles.logo} />
-          <span>Shtock</span>
+          <span>Stock Market</span>
         </Link>
 
         <div className={styles.userContainer}>
-          <div className={styles.user}>J</div>
-          <span>Jake</span>
+          <div className={styles.user}>KFZ</div>
+          <span>Zoltan KUN-FAGYAL</span>
         </div>
       </div>
     </header>
